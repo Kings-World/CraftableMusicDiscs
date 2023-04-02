@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "Craftable Music Discs",
+    "ingredients": [
+        { "item": "minecraft:charcoal" },
+        { "item": "minecraft:charcoal" },
+        { "item": "minecraft:light_blue_dye" },
+        { "item": "minecraft:charcoal" },
+        { "item": "minecraft:charcoal" }
+    ],
+    "result": {
+        "item": "minecraft:music_disc_wait",
+        "count": 1
+    }
+}
