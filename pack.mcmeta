@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 12,
+        "pack_format": 15,
         "description": "A 1.19.4 pack for crafting music discs"
     }
 }
