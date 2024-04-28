@@ -1,6 +1,10 @@
 {
     "pack": {
         "pack_format": 15,
-        "description": "A 1.19.4 pack for crafting music discs"
+        "description": "A datapack for crafting music discs",
+        "supported_formats": {
+            "min_inclusive": 15,
+            "max_inclusive": 41
+        }
     }
 }
