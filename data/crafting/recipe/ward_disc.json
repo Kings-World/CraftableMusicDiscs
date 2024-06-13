@@ -4,12 +4,13 @@
     "ingredients": [
         { "item": "minecraft:charcoal" },
         { "item": "minecraft:charcoal" },
-        { "item": "minecraft:diamond" },
+        { "item": "minecraft:emerald" },
         { "item": "minecraft:charcoal" },
         { "item": "minecraft:charcoal" }
     ],
     "result": {
-        "item": "minecraft:music_disc_otherside",
+        "item": "minecraft:music_disc_ward",
+        "id": "minecraft:music_disc_ward",
         "count": 1
     }
 }

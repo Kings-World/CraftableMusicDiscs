@@ -4,12 +4,13 @@
     "ingredients": [
         { "item": "minecraft:charcoal" },
         { "item": "minecraft:charcoal" },
-        { "item": "minecraft:purple_dye" },
+        { "item": "minecraft:light_blue_dye" },
         { "item": "minecraft:charcoal" },
         { "item": "minecraft:charcoal" }
     ],
     "result": {
-        "item": "minecraft:music_disc_mall",
+        "item": "minecraft:music_disc_wait",
+        "id": "minecraft:music_disc_wait",
         "count": 1
     }
 }

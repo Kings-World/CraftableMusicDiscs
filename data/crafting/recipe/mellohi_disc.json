@@ -4,12 +4,13 @@
     "ingredients": [
         { "item": "minecraft:charcoal" },
         { "item": "minecraft:charcoal" },
-        { "item": "minecraft:green_dye" },
+        { "item": "minecraft:pink_dye" },
         { "item": "minecraft:charcoal" },
         { "item": "minecraft:charcoal" }
     ],
     "result": {
-        "item": "minecraft:music_disc_cat",
+        "item": "minecraft:music_disc_mellohi",
+        "id": "minecraft:music_disc_mellohi",
         "count": 1
     }
 }

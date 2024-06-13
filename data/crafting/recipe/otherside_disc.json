@@ -4,12 +4,13 @@
     "ingredients": [
         { "item": "minecraft:charcoal" },
         { "item": "minecraft:charcoal" },
-        { "item": "minecraft:brown_dye" },
+        { "item": "minecraft:diamond" },
         { "item": "minecraft:charcoal" },
         { "item": "minecraft:charcoal" }
     ],
     "result": {
-        "item": "minecraft:music_disc_blocks",
+        "item": "minecraft:music_disc_otherside",
+        "id": "minecraft:music_disc_otherside",
         "count": 1
     }
 }

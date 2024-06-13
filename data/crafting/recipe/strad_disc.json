@@ -4,12 +4,13 @@
     "ingredients": [
         { "item": "minecraft:charcoal" },
         { "item": "minecraft:charcoal" },
-        { "item": "minecraft:emerald" },
+        { "item": "minecraft:white_dye" },
         { "item": "minecraft:charcoal" },
         { "item": "minecraft:charcoal" }
     ],
     "result": {
-        "item": "minecraft:music_disc_ward",
+        "item": "minecraft:music_disc_strad",
+        "id": "minecraft:music_disc_strad",
         "count": 1
     }
 }

@@ -4,12 +4,13 @@
     "ingredients": [
         { "item": "minecraft:charcoal" },
         { "item": "minecraft:charcoal" },
-        { "item": "minecraft:black_dye" },
+        { "item": "minecraft:lime_dye" },
         { "item": "minecraft:charcoal" },
         { "item": "minecraft:charcoal" }
     ],
     "result": {
-        "item": "minecraft:music_disc_stal",
+        "item": "minecraft:music_disc_far",
+        "id": "minecraft:music_disc_far",
         "count": 1
     }
 }

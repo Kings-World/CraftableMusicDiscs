@@ -4,12 +4,13 @@
     "ingredients": [
         { "item": "minecraft:brick" },
         { "item": "minecraft:brick" },
-        { "item": "minecraft:diamond" },
+        { "item": "minecraft:gold_ingot" },
         { "item": "minecraft:brick" },
         { "item": "minecraft:brick" }
     ],
     "result": {
-        "item": "minecraft:music_disc_relic",
+        "item": "minecraft:music_disc_pigstep",
+        "id": "minecraft:music_disc_pigstep",
         "count": 1
     }
 }
